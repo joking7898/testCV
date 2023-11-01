@@ -1,0 +1,1 @@
+# There must be ***native_lib.so*** file in this folder.

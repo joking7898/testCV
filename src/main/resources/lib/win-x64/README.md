@@ -1,0 +1,1 @@
+# There must be ***native_lib.dll*** file in this folder.
