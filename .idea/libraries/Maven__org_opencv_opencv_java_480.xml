@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.opencv:opencv_java:480" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.opencv" artifactId="opencv_java" version="480" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opencv/opencv_java/480/opencv_java-480.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opencv/opencv_java/480/opencv_java-480-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opencv/opencv_java/480/opencv_java-480-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

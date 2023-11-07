@@ -44,7 +44,8 @@ public class Main {
                 // Save the processed image with the same file name in the output directory
                 String outputFileName = outputDirectory + File.separator + imageFile.getName();
                 Imgcodecs.imwrite(outputFileName, processedFrame);
-                System.out.println("Processed: " + imageFile.getName());
+                String HashKey = ImgHashKey.getImgHashKey(processedFrame);
+                System.out.println("Processed: " + imageFile.getName() + "\t HashKey = " + HashKey);
             });
 
         }
